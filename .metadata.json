@@ -1,0 +1,32 @@
+[
+  {
+    "package": "LEEF"
+  },
+  {
+    "package": "LEEF"
+  },
+  {
+    "package": "LEEF.measurement.bemovi"
+  },
+  {
+    "package": "bemovi.LEEF"
+  },
+  {
+    "package": "LEEF.measurement.flowcytometer"
+  },
+  {
+    "package": "LEEF.measurement.manualcount"
+  },
+  {
+    "package": "LEEF.measurement.o2meter"
+  },
+  {
+    "package": "LEEF.measurement.flowcam"
+  },
+  {
+    "package": "LEEF.archive.default"
+  },
+  {
+    "package": "LEEF.backend.sqlite"
+  }
+]
