@@ -25,5 +25,8 @@
   },
   {
     "package": "LEEF.backend.sqlite"
+  },
+  {
+    "package": "LEEF.analysis"
   }
 ]

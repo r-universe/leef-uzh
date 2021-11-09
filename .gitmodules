@@ -57,3 +57,9 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "LEEF.analysis"]
+	path = LEEF.analysis
+	url = https://github.com/LEEF-UZH/LEEF.analysis
+	shallow = true
+	branch = master
+	registered = true
