@@ -63,3 +63,9 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "zenDep"]
+	path = zenDep
+	url = https://github.com/LEEF-UZH/zenDep
+	shallow = true
+	branch = master
+	registered = true

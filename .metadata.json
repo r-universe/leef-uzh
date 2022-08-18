@@ -28,5 +28,8 @@
   },
   {
     "package": "LEEF.analysis"
+  },
+  {
+    "package": "zenDep"
   }
 ]
