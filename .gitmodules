@@ -1,71 +1,48 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/leef-uzh/leef-uzh.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "LEEF"]
 	path = LEEF
 	url = https://github.com/LEEF-UZH/LEEF
-	shallow = true
 	branch = master
-	registered = true
 [submodule "LEEF.measurement.bemovi"]
 	path = LEEF.measurement.bemovi
 	url = https://github.com/LEEF-UZH/LEEF.measurement.bemovi
-	shallow = true
 	branch = master
-	registered = true
 [submodule "bemovi.LEEF"]
 	path = bemovi.LEEF
 	url = https://github.com/LEEF-UZH/bemovi
-	shallow = true
 	branch = LEEF
-	registered = true
 [submodule "LEEF.measurement.flowcytometer"]
 	path = LEEF.measurement.flowcytometer
 	url = https://github.com/LEEF-UZH/LEEF.measurement.flowcytometer
-	shallow = true
 	branch = master
-	registered = true
 [submodule "LEEF.measurement.manualcount"]
 	path = LEEF.measurement.manualcount
 	url = https://github.com/LEEF-UZH/LEEF.measurement.manualcount
-	shallow = true
 	branch = master
-	registered = true
 [submodule "LEEF.measurement.o2meter"]
 	path = LEEF.measurement.o2meter
 	url = https://github.com/LEEF-UZH/LEEF.measurement.o2meter
-	shallow = true
 	branch = master
-	registered = true
 [submodule "LEEF.measurement.flowcam"]
 	path = LEEF.measurement.flowcam
 	url = https://github.com/LEEF-UZH/LEEF.measurement.flowcam
-	shallow = true
 	branch = master
-	registered = true
 [submodule "LEEF.archive.default"]
 	path = LEEF.archive.default
 	url = https://github.com/LEEF-UZH/LEEF.archive.default
-	shallow = true
 	branch = master
-	registered = true
 [submodule "LEEF.backend.sqlite"]
 	path = LEEF.backend.sqlite
 	url = https://github.com/LEEF-UZH/LEEF.backend.sqlite
-	shallow = true
 	branch = master
-	registered = true
 [submodule "LEEF.analysis"]
 	path = LEEF.analysis
 	url = https://github.com/LEEF-UZH/LEEF.analysis
-	shallow = true
 	branch = master
-	registered = true
 [submodule "zenDep"]
 	path = zenDep
 	url = https://github.com/LEEF-UZH/zenDep
-	shallow = true
 	branch = master
-	registered = true
