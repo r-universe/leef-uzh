@@ -6,14 +6,26 @@
 	path = LEEF
 	url = https://github.com/LEEF-UZH/LEEF
 	branch = master
+[submodule "LEEF.analysis"]
+	path = LEEF.analysis
+	url = https://github.com/LEEF-UZH/LEEF.analysis
+	branch = master
+[submodule "LEEF.archive.default"]
+	path = LEEF.archive.default
+	url = https://github.com/LEEF-UZH/LEEF.archive.default
+	branch = master
+[submodule "LEEF.backend.sqlite"]
+	path = LEEF.backend.sqlite
+	url = https://github.com/LEEF-UZH/LEEF.backend.sqlite
+	branch = master
 [submodule "LEEF.measurement.bemovi"]
 	path = LEEF.measurement.bemovi
 	url = https://github.com/LEEF-UZH/LEEF.measurement.bemovi
 	branch = master
-[submodule "bemovi.LEEF"]
-	path = bemovi.LEEF
-	url = https://github.com/LEEF-UZH/bemovi
-	branch = LEEF
+[submodule "LEEF.measurement.flowcam"]
+	path = LEEF.measurement.flowcam
+	url = https://github.com/LEEF-UZH/LEEF.measurement.flowcam
+	branch = master
 [submodule "LEEF.measurement.flowcytometer"]
 	path = LEEF.measurement.flowcytometer
 	url = https://github.com/LEEF-UZH/LEEF.measurement.flowcytometer
@@ -26,22 +38,10 @@
 	path = LEEF.measurement.o2meter
 	url = https://github.com/LEEF-UZH/LEEF.measurement.o2meter
 	branch = master
-[submodule "LEEF.measurement.flowcam"]
-	path = LEEF.measurement.flowcam
-	url = https://github.com/LEEF-UZH/LEEF.measurement.flowcam
-	branch = master
-[submodule "LEEF.archive.default"]
-	path = LEEF.archive.default
-	url = https://github.com/LEEF-UZH/LEEF.archive.default
-	branch = master
-[submodule "LEEF.backend.sqlite"]
-	path = LEEF.backend.sqlite
-	url = https://github.com/LEEF-UZH/LEEF.backend.sqlite
-	branch = master
-[submodule "LEEF.analysis"]
-	path = LEEF.analysis
-	url = https://github.com/LEEF-UZH/LEEF.analysis
-	branch = master
+[submodule "bemovi.LEEF"]
+	path = bemovi.LEEF
+	url = https://github.com/LEEF-UZH/bemovi
+	branch = LEEF
 [submodule "zenDep"]
 	path = zenDep
 	url = https://github.com/LEEF-UZH/zenDep
